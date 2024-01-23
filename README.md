@@ -16,7 +16,7 @@ In the distribution for rating, the top three are TV-14, TV-MA, and TV-PG. They 
 
 Netflix has three quarter of content concentrated on movie, while the rest of 24.2% belongs to TV show. Therefore, Netflix has much more focus on movies than shows.
 
-   ![Explorative-Data-Analysis-of-Netflix-Contents](images/movies-vs-show.png)
+   ![Explorative-Data-Analysis-of-Netflix-Contents](images/ratings-for-tv-+movie.png)
 
 By comparing rating type frequency with content type (movie vs. tv show) we see there is a similar trend still that Netflix puts more emphasis on adult content for their audience. However, there is a consistent choice where Netflix has put more effort in bringing movies in the platform. The only two exceptions here are for TV-Y7 and TV-Y7-FV. They are both programs for children age 7 and above. This could be Netflix aiming for a children's market that contains more TV shows for child education.
 
