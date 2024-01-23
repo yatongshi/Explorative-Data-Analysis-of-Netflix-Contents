@@ -6,6 +6,8 @@ Main Directive: Exploring Netflix's Content Choices
 
 1. What are the main ratings that are prevalent in Netflix?
 
+   ![Explorative-Data-Analysis-of-Netflix-Contents](images/frequency-of-rating.png)
+
 In the distribution for rating, the top three are TV-14, TV-MA, and TV-PG. They are programs including materials that defined not suitable for children under 17, 14, or younger. The emphasis shows that Netflix has still put its main market on the adult content.
 
 2. For further understanding, what about under the context of TV Show vs. Movie?
