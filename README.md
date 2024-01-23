@@ -1,4 +1,8 @@
 # Netflix-Research
+Main Directive: Exploring Netflix's Content Choices
+* Using XXX I did XXX thing.
+* one more line of description
+
 1. What are the main ratings that are prevalent in Netflix
 
 Comment: in the distribution for rating, the top three are TV-14, TV-MA, and TV-PG. They are programs including materials that defined not suitable for children under 17, 14, or younger. The emphasis shows that Netflix has still put its main market on the adult content.
@@ -18,16 +22,10 @@ Comment: from the data, we learn that the countries with the highest productions
 
 Comment：the dataset shows years from 2008 to 2019. Netflix started rapidly take in movies since 2016, where they take around 600 moviews in the single year of 2016 to 2017. While the show has a steady increase around 100 shows each year from 2014 to 2019.
 
-In summary:
-
-Netflix primarily focuses on adult-oriented content, with top-rated categories being TV-14, TV-MA, and TV-PG.
-
-Movies constitute about 75% of Netflix's content, emphasizing a strong preference for movie-centric offerings.
-
-Despite the movie emphasis, Netflix maintains a consistent focus on adult content across both movies and TV shows.
-
-Notable exceptions are TV-Y7 and TV-Y7-FV, indicating a targeted effort towards children's programming.
-
-The United States remains Netflix's primary market, followed by India, the United Kingdom, Japan, and Korea.
-
-Content growth shows a significant increase in movies starting from 2016, while TV shows exhibit a steady rise from 2014 to 2019.
+_In Summary:_
+* Netflix primarily focuses on adult-oriented content, with top-rated categories being TV-14, TV-MA, and TV-PG.
+* Movies constitute about 75% of Netflix's content, emphasizing a strong preference for movie-centric offerings.
+* Despite the movie emphasis, Netflix maintains a consistent focus on adult content across both movies and TV shows.
+* Notable exceptions are TV-Y7 and TV-Y7-FV, indicating a targeted effort towards children's programming.
+* The United States remains Netflix's primary market, followed by India, the United Kingdom, Japan, and Korea.
+* Content growth shows a significant increase in movies starting from 2016, while TV shows exhibit a steady rise from 2014 to 2019.
