@@ -1,8 +1,5 @@
 # Netflix-Research
 Main Directive: Exploring Netflix's Content Choices
-* Using XXX I did XXX thing.
-* one more line of description
-* Below are the questions I explored.
 
 1. What are the main ratings that are prevalent in Netflix?
 
